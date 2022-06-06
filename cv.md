@@ -1,6 +1,6 @@
 # __Maksimovich Angelina__ 
 
-##  __My contact info:__ 
+## __My contact info:__ 
 
  * __Email:__ heretic.incen@gmail.com
  * __Phone:__ +79627090086
@@ -36,4 +36,3 @@ console.log('This website is for losers LOL!');
 
  * Russian - Native
  * English - A2
- 
