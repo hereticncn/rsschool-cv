@@ -16,9 +16,10 @@
  * HTML, CSS Basic
  * JavaScript Basic (in progress)
 
- ## __Code Examples:__
+## __Code Examples:__
 
-```function disemvowel(str) {
+```
+function disemvowel(str) {
 str = str.replace(/[aeiou]/gi, '');
 return str;
 }
@@ -35,5 +36,4 @@ console.log('This website is for losers LOL!');
 
  * Russian - Native
  * English - A2
-
-
+ 
