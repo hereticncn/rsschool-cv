@@ -27,6 +27,6 @@ console.log('This website is for losers LOL!');
 
 ## __Languages:__
  * Russian - Native
- * English - A1
+ * English - A2
 
 
