@@ -11,3 +11,22 @@
 ## __Skills:__
  * HTML, CSS Basic
  * JavaScript Basic (in progress)
+
+ ## __Code Examples:__
+```function disemvowel(str) {
+str = str.replace(/[aeiou]/gi, '');
+return str;
+}
+console.log('This website is for losers LOL!');
+```
+
+## __Education:__
+ * HTML Academy
+ * CodeBasic
+ * RS Schools Course «JavaScript/FE Pre-School 2022» (in progress)
+
+## __Languages:__
+ * Russian - Native
+ * English - A1
+
+
