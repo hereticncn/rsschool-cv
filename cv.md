@@ -31,9 +31,9 @@ console.log('This website is for losers LOL!');
 ## **Courses:**
 * HTML on the Hexlet and CSS on the CodeBasics
 (completed);
-* JavaScript on learnjavascript.ru (in progress);
+* JavaScript on [learnjavascript.ru](https://learn.javascript.ru/) (in progress);
 * RS Schools Courses «JavaScipt/Front-end. Stage 0» (in progress);
 
 ## **Languages:**
-* English - A1/A2 BEGINNER/ELEMENTARY (according to the online test at EF SET).
+* English - A1/A2 BEGINNER/ELEMENTARY (according to the online test at [EF SET](https://www.efset.org/)).
 * Russian - Native.
